@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\bin\Debug\BPSerialTransfer.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\bin\Debug\BPSerialTransfer.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\bin\Debug\BPSerialTransfer.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\obj\Debug\BPSerialTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\obj\Debug\BPSerialTransfer.MainForm.resources
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\obj\Debug\BPSerialTransfer.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\obj\Debug\BPSerialTransfer.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\BPSerialTransfer\BPSerialTransfer\obj\Debug\BPSerialTransfer.pdb
